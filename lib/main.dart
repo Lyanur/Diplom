@@ -26,11 +26,6 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: CheckLogin(),
-      routes: <String, WidgetBuilder> {
-        '/login': (BuildContext context) => const LoginPage(),
-        '/home': (BuildContext context) => const MyHomePage(),
-        '/newForm': (BuildContext context) => const NewForm(),
-      },
       // home: const NewForm(),
     );
   }

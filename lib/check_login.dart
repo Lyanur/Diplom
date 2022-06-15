@@ -1,3 +1,4 @@
+import 'package:diplopm_2/auth/authPage.dart';
 import 'package:diplopm_2/auth/login_page.dart';
 import 'package:diplopm_2/homePage.dart';
 import 'package:diplopm_2/main.dart';
@@ -24,7 +25,7 @@ class CheckLogin extends StatelessWidget {
             } else if (snapshot.hasData) {
               return const MyHomePage();
             } else {
-              return const LoginPage();
+              return const AuthPage();
             }
           }),
     );
