@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936668915426",
+    "project_id": "diplomdev-98999",
+    "storage_bucket": "diplomdev-98999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936668915426:android:3ee6a7b8f4d62eca8ea0bb",
+        "android_client_info": {
+          "package_name": "com.nairun.diplomdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936668915426-sd11k1ak8sk3h9r3mfh3eta0rv4ef8oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWoiBZwBF4xaXb8Y5E24Z4YznORUlIMwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936668915426-sd11k1ak8sk3h9r3mfh3eta0rv4ef8oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
