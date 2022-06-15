@@ -118,10 +118,6 @@ class _NewFormState extends State<NewForm> {
                               borderRadius: BorderRadius.circular(10),
                               child: ElevatedButton(
                                 onPressed: () {
-                                    print(nameOrg);
-                                    print(numOrg);
-                                    print(deliveryAddress);
-                                    print(initialDelivery);
                                     Navigator.pop(context);
                                 },
                                 child: const Text(
